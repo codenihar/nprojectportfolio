@@ -25,23 +25,17 @@
 
 .website-logo {
   font-size: 20px;
-  width: 45px;
-  height: 45px;
   border-radius: 12px;
-  text-align: center;
   font-weight: 900;
   color: #1d4ed8;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #dbeafe;
+  padding: 10px;
+  text-align: center;
 }
 
 @media screen and (min-width: 768px) {
   .website-logo {
     font-size: 28px;
-    width: 48px;
-    height: 48px;
   }
 }
 
